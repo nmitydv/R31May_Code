@@ -1,3 +1,5 @@
+import Mybutton from "./Mybutton"
+import Profile from "./Profile"
 
 function App() {
 
@@ -5,6 +7,10 @@ function App() {
     <>
       <div>
         <h1>My name is Namit Yadav</h1>
+        <Mybutton/>
+        <br></br>
+        <p>Profile</p>
+        <Profile/>
        </div>
     </>
   )
