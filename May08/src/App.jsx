@@ -11,6 +11,8 @@ function App() {
         <br></br>
         <p>Profile</p>
         <Profile/>
+
+        
        </div>
     </>
   )
