@@ -6,11 +6,13 @@ function App() {
   return (
     <>
       <div>
-        <h1>My name is Namit Yadav</h1>
+        <h1>My name is Namit Yadav  </h1>
         <Mybutton/>
         <br></br>
         <p>Profile</p>
         <Profile/>
+
+        
        </div>
     </>
   )
