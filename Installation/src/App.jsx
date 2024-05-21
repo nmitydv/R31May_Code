@@ -12,8 +12,7 @@ function App() {
         <p>Profile</p>
         <Profile/>
 
-        
-       </div>
+         </div>
     </>
   )
 }
